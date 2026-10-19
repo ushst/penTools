@@ -1,0 +1,3 @@
+[submodule "bhCollector"]
+	path = bhCollector
+	url = https://github.com/ushst/bhCollector.git
